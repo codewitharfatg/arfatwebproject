@@ -1,0 +1,41 @@
+body
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: chocolate;
+    padding: 50px;
+}
+.container
+{
+    background-color: white;
+    padding: 40px;
+    border-radius: 15px;
+    max-width: 750px;
+    margin: auto;
+}
+h1
+{
+    color: blue;
+    font-size: 35px;
+    margin-bottom: 20px;
+    
+}
+
+
+
+
+button
+{
+    background-color: rgb(143, 36, 4);
+    color: white;
+    padding: 12px 18px;
+    margin:8px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 15px;
+}
+button:hover{
+    background-color:rgb(11, 215, 65);
+}
